@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Real History</string>
+    <string name="FBsite">
+    <a href="https://www.facebook.com/realhistorybd">Facebook Page (Real History)</a>
+    </string>
+
+    <string name="YTsite">
+    <a href="https://www.youtube.com/RealHistoryJUB1960">Youtube Channel (Real History)</a>
+    </string>
+    <string name="bongo">বঙ্গের ইতিহাস :  বঙ্গ এর উৎপত্তি সম্পর্কে ঐতিহাসিক ও গবেষকদের মধ্যে মতভেদ থাকলেও সুপ্রাচীন কাল থেকে এ অঞ্চলে বঙ্গ নামে যে প্রাচীন জনপদ ছিল তাতে সবাই একমত। ইতিহাস পর্যালোচনায় দেখা যায় যে, প্রাচীনকালে এ জনপদের বিভিন্ন অংশ বিভিন্ন নামে পরিচিত ছিল। এসব জনপদের মধ্যে উল্লেখযোগ্য ছিল বঙ্গ, পুন্ড্র, গৌড়, বরেন্দ্র, রাঢ়, সমতট, হরিকেল, চন্দ্রদ্বীপ, তাম্রলিপ্ত প্রভৃতি বিভিন্ন নামে পরিচিত ছিল। পরবর্তীকালে সম্ভবত খ্রিষ্ট্রিয় চতুর্থ শতকের পর বিভিন্ন জনপদ তাদের পারস্পরিক বিবাদ ভুলে শক্তিশালী বঙ্গ জনপদের সাথে একীভূত হয়ে বঙ্গ নামে পরিচিত লাভ করে।</string>
+    <string name="bingo_eng">
+Although there is disagreement among historians and researchers about the origin of Bengal, everyone agrees that there has been an ancient settlement called Banga in this region since ancient times.
+    A review of history shows that in ancient times different parts of this town were known by different names. Notable among these towns were Banga, Pundra, Gaur, Barindra, Radha, Samatat, Harikela, Chandradwip, Tamralipta etc.
+
+Later, probably after the fourth century AD, the various settlements forgot their mutual disputes and merged with the powerful Bengal settlements and came to be known as Banga.</string>
+
+    <string name="bangalijati">বাঙালি জাতির উৎপত্তির ইতিহাস:
+বাঙালি জাতি কোন শ্রেণি থেকে উদ্ভূত তা সুনির্দিষ্ট করে বলা খুবই দূরুহ ব্যাপার। এযাবৎ বাংলাদেশের কোথাও প্রাগৈতিহাসিক বা ঐতিহাসিক যুগের কোনো নরকঙ্কাল পাওয়া যায় নি যার ফলে ধারণা করতে পারা যায় যে,একটি বিশেষ নৃগোষ্ঠীর বংশধর হলো বাঙালি জাতি। কিন্তু নরতত্ত্ববিদগণ বাঙালি জাতির দৈহিক গঠন পরীক্ষা করে বিভিন্ন জাতির বসবাস সম্পর্কে নিশ্চিত হয়েছেন। তাই বাংলাদেশের বিভিন্ন জনগোষ্ঠীর দৈহিক গঠন ভিন্ন ভিন্ন। সুদূর অতীতকাল থেকেই বিভিন্ন জনগোষ্ঠীর মিশ্রণ ও সমন্বয়ের মাধ্যমে বাঙালি-জনগোষ্ঠীর উদ্ভব ঘটেছে। তাই এদেশের কাউকে দেখে মনে হয় নিগ্রোয়েড,কাউকে অস্ট্রালয়েড,কাউকে মঙোলয়েড​,আবার কাউকে কোনোটারই অন্তর্ভুক্ত করা যায়না। সুতরাং বাঙালি একক কোনো নৃতাত্ত্বিক​ জনগোষ্ঠী​ নয়।বরং অধিকাংশ ঐতিহাসিক একমত হয়েছেন যে,বাঙালি একটি সংকর​-জাতি।
+</string>
+    <string name="bangalijati_eng">
+It is very difficult to say exactly from which class the Bengali nation originated. So far no human skeleton of prehistoric or historical period has been found anywhere in Bangladesh which gives the impression that the Bengali nation is the descendant of a particular ethnic group.
+
+But anthropologists have examined the physical constitution of the Bengali nation and confirmed the existence of different nations. Therefore, the physical constitution of different peoples of Bangladesh is different.
+
+From the distant past, the Bengali people have emerged through the mixing and coordination of different peoples. So it seems that some people in this country cannot be included in the Negroes, some in the Australoids, some in the Mongoloids, and some in others.
+So the Bengalis are not a single ethnic group. On the contrary, most historians have agreed that the Bengalis are a hybrid race.</string>
+
+    <string name="vasha">যে কোনো ভাষার উৎপত্তিকাল সঠিক দিন তারিখ হিসাব করে নির্ণয় করা কঠিন। তবে ভাষা বিজ্ঞানীরা অধিকাংশ ভাষার আদি উৎস খুঁজে পেয়েছেন। এদেশের অধিবাসীরা শুরু থেকেই বাংলা ভাষায় কথা বলত
+না।এর রয়েছে সুদীর্ঘ ইতিহাস ও বিবর্তন ধারা।খ্রি পূ ৫০০০ বছর আগে মধ্য এশিয়ার একদল লোকের ভাষা ছিল ইন্দো ইউরোপীয় মূল ভাষা। পরবর্তীতে জনসংখ্যা বৃদ্ধির সাথে সাথে তখন তারা ইউরোপ ও এশিয়ার বিভিন্ন অঞ্চলে ছড়িয়ে পড়ে। সেখান থেকেই বিভিন্ন সময়ে বহু বিবর্তনের মাধ্যমে আজকের বাংলা ভাষা। সুতরাং বাংলা ভাষা হলো ইন্দো ইউরোপীয় ভাষা গোষ্ঠীর অন্তর্গত একটি ভাষা।</string>
+
+
+    <string name="vasha_eng">
+It is difficult to determine the exact date of origin of any language by calculating the date. However, linguists have found the original source of most languages. The inhabitants of this country did not speak Bengali from the very beginning. It has a long history and evolutionary style. The language of a group of people in Central Asia was Indo European 5000 BC. Later, as the population grew, they spread to other parts of Europe and Asia. From there todays Bengali language through many evolutions at different times. So Bengali is a language belonging to the Indo European language group.</string>
+
+    <string name="kromo">বাংলা ভাষার বিকাশ ও ক্রমবিবর্তন বিভিন্ন ধারায় এসেছে। বাংলা ভাষার গবেষক ও পন্ডিতগণ দীর্ঘ গবেষণার পর বাংলা ভাষার ক্রমবিকাশকে তিন ভাগে ভাগ করেছেন। ১)প্রাচীন যুগ ২)মধ্য যুগ ৩)আধুনিক যুগ। সেই প্রাচীনকাল থেকেই এ অঞ্চলে বিভিন্ন জাতি বা গোষ্ঠী দ্বারা শাসিত হওয়ায় বিজয়ীদের ভাষার একটা মিশ্রণ বাংলা ভাষায় ব্যাপক প্রভাব ফেলেছে। আরবি,ফারসি,ইংরেজি, উর্দু ভাষার এ মিশ্রণ বাংলা ভাষার স্বকীয়তাকে নষ্ট করে দেয়নি বরং বাংলা সাহিত্যকে সমৃদ্ধ ও গতিময় করেছে।</string>
+    <string name="kromo_eng">The development and evolution of Bengali language has come in different streams. Bengali language researchers and scholars have divided the evolution of Bengali language into three parts after a long research.
+1) Ancient age 2) Middle age 3) Modern age. Since that region has been ruled by different races or groups since ancient times, a mixture of the languages ​​of the conquerors has had a profound effect on Bengali.
+This mixture of Arabic, Persian, English and Urdu did not destroy the uniqueness of Bengali language but enriched and enriched Bengali literature.</string>
+    <string name="bongovongo1">বঙ্গভঙ্গের ইতিহাস ১৯০৫ সাল (Partition of Bengal 1905 ) :-
+বাংলা তথা ভারতীয় উপমহাদেশের ইতিহাসে ১৯০৫ সনের বঙ্গভঙ্গ একটি গুরুত্বপূর্ণ ঘটনা। এটি একদিকে যেমন ব্রিটিশদের প্রশাসনিক ক্ষেত্রে এক গুরুতর বোঝা লাগবে সহায়তা করেছিল তেমনি নবগঠিত পূর্ববাংলার জনগণের শিক্ষা সংস্কৃতি, রাজনৈতিক, অর্থনৈতিক, শান্তি শৃংখলা পূণর্বহালে অবদান রেখেছিল। অপরদিকে এ ঘটনার প্রতিক্রিয়া
+হিসেবে পশ্চিম বাংলার হিন্দু সমাজের বিরোধিতার দরুন সৃষ্ট  আন্দোলন স্বদেশী, বয়কট ও সন্ত্রাসবাদী আন্দোলনে রূপ নেয়। ফলশ্রুতিতে কংগ্রেস তথা হিন্দু সমাজের স্বদেশী ও সন্ত্রাসবাদী আন্দোলনের চাপের মুখে ব্রিটিশ সরকার ১৯১১ সনে বঙ্গভঙ্গ রদ করতে বাধ্য হয়।বঙ্গভঙ্গ রদের ঘোষণাকে কংগ্রেস ও হিন্দু সমাজ স্বাগত জানায়।অনেক ধর্মান্ধ ও উগ্র কংগ্রেসী নেতা হিন্দু জাতীয়তাবাদের বিজয় বলে ভাবতে শুরু করে। পাশাপাশি পূর্ববাংলা ও আসাম নামক নতুন প্রদেশ গঠিত হওয়ায় পূর্ব বাংলার বাংগালী মুসলমান জনগণের মধ্যে যে উৎসাহ, প্রাণ- চাঞ্চল্য ও জাগরণের সৃষ্টি হয়েছিল বঙ্গভঙ্গ রদের ঘোষণা তা স্তব্ধ করে দেয়।</string>
+
+    <string name="vongo1_eng">The Partition of Bengal in 1905 is an important event in the history of Bengal and the Indian subcontinent. On the one hand, it helped to bring a serious burden on the British administration, and on the other hand, it contributed to the restoration of education, culture, politics, economy and peace in the newly formed people of East Bengal. On the other hand, the reaction to this incident
+As a result, the movement created due to the opposition of the Hindu society in West Bengal took the form of Swadeshi, boycott and terrorist movement. As a result, the British government was forced to repeal the Partition of Bengal in 1911 under the pressure of the Congress and the Hindu and Swadeshi and terrorist movements. Besides, with the formation of new provinces called East Bengal and Assam, the excitement and awakening that had arisen among the Bengali Muslim people of East Bengal was halted by the announcement of the abolition of the Partition of Bengal.</string>
+
+<string name="vongo2">বঙ্গভঙ্গের ইতিহাস ১৯০৫-১৯১১:
+১৯০৫ সনের বঙ্গভঙ্গ ঘোষণা ও ১৯১১ সনের বঙ্গভঙ্গ রদ বাংলা তথা ভারতবর্ষের ইতিহাসে  একটি গুরুত্বপূর্ণ ঘটনা। এটি একদিকে যেমন ব্রিটিশদের প্রশাসনিক ক্ষেত্রে এক গুরুতর বোঝা লাগবে সহায়তা করেছিল তেমনি নবগঠিত পূর্ববাংলার জনগণের শিক্ষা সংস্কৃতি, রাজনৈতিক, অর্থনৈতিক, শান্তি শৃংখলা পূণর্বহালে অবদান রেখেছিল। অপরদিকে এ ঘটনার প্রতিক্রিয়া হিসেবে পশ্চিম বাংলার হিন্দু সমাজের বিরোধিতার দরুন সৃষ্ট  আন্দোলন স্বদেশী, বয়কট ও সন্ত্রাসবাদী আন্দোলনে রূপ নেয়। ফলশ্রুতিতে কংগ্রেস তথা হিন্দু সমাজের স্বদেশী ও সন্ত্রাসবাদী আন্দোলনের চাপের মুখে ব্রিটিশ সরকার ১৯১১ সনে বঙ্গভঙ্গ রদ করতে বাধ্য হয়।বঙ্গভঙ্গ রদের ঘোষণাকে কংগ্রেস ও হিন্দু সমাজ স্বাগত জানায়।অনেক ধর্মান্ধ ও উগ্র কংগ্রেসী নেতা হিন্দু জাতীয়তাবাদের বিজয় বলে ভাবতে শুরু করে। পাশাপাশি পূর্ববাংলা ও আসাম নামক নতুন প্রদেশ গঠিত হওয়ায় পূর্ব বাংলার বাংগালী মুসলমান জনগণের মধ্যে যে উৎসাহ, প্রাণ- চাঞ্চল্য ও জাগরণের সৃষ্টি হয়েছিল বঙ্গভঙ্গ রদের ঘোষণা তা স্তব্ধ করে দেয়।ফলে ভারতবর্ষের দুটি প্রধান ধর্মীয় সম্প্রদায় হিন্দু ও মুসলমানদের মধ্যে পারস্পরিক অবিশ্বাস ও দূরত্ব তৈরি হয়।তাদের মধ্যে সাম্প্রদায়িক মনোভাব চরম আকার ধারণ করে। কিন্তু ১৯৪৭ সালে সেই কংগ্রেস ও হিন্দু সমাজই নিজেদের স্বার্থে বাংলাকে দ্বিখণ্ডিত করার প্রস্তাব দেয়। আর তাদের ভূমিকার কারনেই বাঙালি জাতি দ্বিখণ্ডিত  হয়।</string>
+
+
+
+    <string name="vongo2_eng">The declaration of partition of Bengal in 1905 and the abolition of partition of Bengal in 1911 is an important event in the history of Bengal and India. On the one hand, it helped the British to have a serious administrative burden, and on the other hand, it contributed to the restoration of the education, culture, politics, economy and peace of the people of the newly formed East Bengal. On the other hand, the reaction to this incident
+As a result, the movement created due to the opposition of the Hindu society in West Bengal took the form of Swadeshi, boycott and terrorist movement. As a result, the British government was forced to repeal the Partition of Bengal in 1911 under the pressure of the Congress and the Hindu and Swadeshi and terrorist movements.
+At the same time, the announcement of the abolition of the partition of Bengal stifled the excitement, excitement and awakening of the Bengali Muslim people of East Bengal with the formation of new provinces called East Bengal and Assam. As a result, mutual distrust and distance developed between Hindus and Muslims Communal attitudes among them take on extreme proportions.
+But in 1947 it was the Congress and the Hindu society that proposed to divide Bengal in their own interest. And because of their role, the Bengali nation is divided.</string>
+
+<string name="gmail">Contact- sadmanjashimsakib@gmail.com</string>
+
+</resources>
